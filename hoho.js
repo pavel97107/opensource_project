@@ -1,0 +1,3 @@
+const hoho = () => {
+    alert('Pasha')
+}
